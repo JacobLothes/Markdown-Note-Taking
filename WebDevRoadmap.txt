@@ -1,8 +1,0 @@
--HTML is used to set the building blocks (Pictures, Text Boxes, Buttons, Icons)
--CSS makes everything prettier
--JavaScript makes it interactive (only programming language so far)
--Frameworks and Libraries help build faster (React is most popular)
--Python Flask and Django for backend
--Postgris and MySQL for database or SUPABASE
--Use Git A lot
--IN THAT ORDER
